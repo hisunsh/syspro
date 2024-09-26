@@ -1,7 +1,7 @@
 #inlcude <stdio.h>
 
 int main() {
-	printf("Hello User\n");
+	printf("Hello DCU\n");
 
 	return 0;
 }
