@@ -1,3 +1,3 @@
-#define MAXLINE 100
+#define MAXLINE 20
 
 void copy(char from[], char to[]);
