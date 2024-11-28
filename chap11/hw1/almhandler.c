@@ -33,3 +33,12 @@ void alarmHandler(int signo) {
 	printf("Wake up\n");
 	exit(0);
 }
+
+/*
+  	 struct sigaction {
+   		 void (*sa_handler)(int);
+		 sigset_t sa_mask;
+   		 int sa_flags;
+   		 void (*sa_restorer)(void);
+	};
+*/
